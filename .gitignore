@@ -1,0 +1,6 @@
+# Local .terraform directories (Do NOT commit)
+**/.terraform/
+
+# Optional: ONLY include this if you explicitly intend to ignore the dependency lock
+
+**/.terraform.lock.hcl
